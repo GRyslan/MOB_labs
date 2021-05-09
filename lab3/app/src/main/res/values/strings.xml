@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="home_lbl"><pre>Головенець Руслан\nГрупа ІВ-83\nЗК ІВ-8305</pre></string>
+    <string name="tab_text_1">General</string>
+    <string name="tab_text_2">Drawing</string>
+    <string name="tab_text_3">Books list</string>
+    <string name="title_placeholder">Untitled</string>
+    <string name="subtitle_placeholder">No subtitle</string>
+    <string name="isbn_placeholder">ISBN not provided</string>
+    <string name="price_placeholder">0.00 USD</string>
+    <string name="isbn"><pre>ISBN13: </pre></string>
+</resources>
